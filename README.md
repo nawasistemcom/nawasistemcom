@@ -37,7 +37,9 @@ https://www.linkedin.com/in/nawa-ismaya-98750a311/
 
 📌 Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
 
-👉 [Baca Artikel](https://medium.com/@nawasistem/dashboard-proyek-perumahan-cara-mengontrol-progres-proyek-dengan-lebih-mudah-a7fa0dc50a33)
+👉 📌 Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
+
+👉 Baca Artikel Medium
 ## Artikel Terbaru
 
 📌 Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
@@ -55,7 +57,6 @@ https://www.linkedin.com/in/nawa-ismaya-98750a311/
 📌 Checklist Quality Control Rumah
 👉 Segera Terbit
 
-## Tentang Nawasistem
 ## Tentang Nawasistem
 
 Nawasistem membantu Project Manager, Site Manager, Pengawas Proyek, Quality Control, Admin Proyek, dan Estate Management bekerja lebih sistematis melalui dashboard, SOP, template, serta edukasi profesional.
