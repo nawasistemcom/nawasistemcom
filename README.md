@@ -35,10 +35,9 @@ https://www.linkedin.com/in/nawa-ismaya-98750a311/
 
 ## Artikel Terbaru
 
-Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
+📌 Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
 
-https://medium.com/@nawasistem/dashboard-proyek-perumahan-cara-mengontrol-progres-proyek-dengan-lebih-mudah-a7fa0dc50a33
-
+👉 [Baca Artikel](https://medium.com/@nawasistem/dashboard-proyek-perumahan-cara-mengontrol-progres-proyek-dengan-lebih-mudah-a7fa0dc50a33)
 ## Tentang Nawasistem
 
 Nawasistem membantu Project Manager, Site Manager, Pengawas Proyek, Quality Control, Admin Proyek, dan Estate Management bekerja lebih sistematis melalui dashboard, SOP, template, serta edukasi profesional.
