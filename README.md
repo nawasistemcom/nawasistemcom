@@ -33,13 +33,7 @@ https://medium.com/@nawasistem
 
 https://www.linkedin.com/in/nawa-ismaya-98750a311/
 
-## Artikel Terbaru
 
-📌 Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
-
-👉 📌 Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
-
-👉 Baca Artikel Medium
 ## Artikel Terbaru
 
 📌 Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
