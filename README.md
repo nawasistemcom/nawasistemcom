@@ -1,16 +1,44 @@
-## Hi there 👋
+# Nawasistem
 
-<!--
-**nawasistemcom/nawasistemcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website resmi Nawasistem menyediakan edukasi dan sistem kerja modern untuk proyek perumahan dan konstruksi.
 
-Here are some ideas to get you started:
+## Fokus Utama
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dashboard Proyek Perumahan
+- Monitoring Progress Proyek
+- SOP Konstruksi
+- Quality Control Rumah
+- Admin Proyek
+- Estate Management
+- Template Proyek
+- Sistem Kerja Modern
+
+## Website Resmi
+
+https://nawasistem.com
+
+## Blog Nawasistem
+
+https://nawasistem.com/blog/
+
+## Media & Publikasi
+
+https://nawasistem.com/media-publikasi/
+
+## Medium
+
+https://medium.com/@nawasistem
+
+## LinkedIn
+
+https://www.linkedin.com/in/nawa-ismaya-98750a311/
+
+## Artikel Terbaru
+
+Dashboard Proyek Perumahan: Cara Mengontrol Progres Proyek dengan Lebih Mudah
+
+https://medium.com/@nawasistem/dashboard-proyek-perumahan-cara-mengontrol-progres-proyek-dengan-lebih-mudah-a7fa0dc50a33
+
+## Tentang Nawasistem
+
+Nawasistem membantu Project Manager, Site Manager, Pengawas Proyek, Quality Control, Admin Proyek, dan Estate Management bekerja lebih sistematis melalui dashboard, SOP, template, serta edukasi profesional.
